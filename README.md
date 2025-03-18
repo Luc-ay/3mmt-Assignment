@@ -1,25 +1,17 @@
-# My Profile Page
+# Product Landing Page
 
-This is a simple **HTML-only** profile page created as part of an assignment. It includes a header, bio section, hobbies list, and contact information.
+This is a simple **Product Landing Page** built using **HTML and CSS**. It includes a **hero section**, a **responsive features section**, and a **footer section**.
 
 ## 📌 Features
 
-- **Header Section:** Contains the title "My Profile" and a navigation menu.
-- **Bio Section:** Includes a short introduction and a placeholder image.
-- **Hobbies & Interests:** Lists at least three hobbies in an unordered list.
-- **Footer Section:** Displays contact details like email and social media handle.
-- **Semantic HTML:** Uses `<header>`, `<nav>`, `<section>`, and `<footer>` for proper structure.
+- ✅ **Hero Section** – Includes a headline, subheadline, and a CTA button.
+- ✅ **Responsive Features Section** – Displays key product features in a three-column layout.
+- ✅ **Footer Section** – Contains contact details and copyright information.
+- ✅ **Fully Responsive** – Uses CSS **Flexbox** for responsiveness.
 
-## 🚀 How to Run
+## 🛠️ Technologies Used
 
-Simply open the `index.html` file in a web browser.
+- HTML5
+- CSS3 (Flexbox for layout)
 
-## 🛠 Technologies Used
-
-- HTML (No CSS or JavaScript)
-
-## 📜 Assignment Requirements
-
-- ✅ Use only **HTML** (No CSS or JavaScript).
-- ✅ Include semantic elements like `<header>`, `<nav>`, `<section>`, `<footer>`.
-- ✅ Ensure proper readability and structure.
+## 📂 Project Structure
