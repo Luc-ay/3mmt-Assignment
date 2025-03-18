@@ -13,5 +13,3 @@ This is a simple **Product Landing Page** built using **HTML and CSS**. It inclu
 
 - HTML5
 - CSS3 (Flexbox for layout)
-
-## 📂 Project Structure

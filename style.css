@@ -29,7 +29,7 @@ body {
 }
 
 .hero button {
-  background-color: #00ff08;
+  background-color: #ffcc00;
   border: none;
   border-radius: 5px;
   padding: 10px 20px;
@@ -37,9 +37,11 @@ body {
   font-weight: 800;
   cursor: pointer;
   margin-top: 10px;
+  transition: background-color 0.3s ease-in-out;
 }
+
 .hero button:hover {
-  background-color: red;
+  background-color: #80ff00cc; /* Softer transition color */
 }
 
 /* Features Section */
@@ -60,8 +62,8 @@ body {
 }
 
 .feature img {
-  width: 200px;
-  height: 200px;
+  max-width: 100%;
+  height: auto; /* Ensures proportional scaling */
 }
 
 /* Footer */
